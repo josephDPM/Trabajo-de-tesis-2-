@@ -24,46 +24,46 @@
 \contentsline {subsection}{\numberline {2.1.3}Demand Forecasting with Supply Chain Information and machine learning Evidence in the Pharmaceutical Industry}{14}{subsection.2.1.3}%
 \contentsline {subsection}{\numberline {2.1.4}Daily retail demand forecasting using machine learning with emphasis on calendric special days}{16}{subsection.2.1.4}%
 \contentsline {subsection}{\numberline {2.1.5}Comparison of statistical and machine learning methods for daily SKU demand forecasting}{17}{subsection.2.1.5}%
-\contentsline {subsection}{\numberline {2.1.6}The Algorithm of a Game-Based System in the Relation between an Operator and a Technical Object in Management of E-Commerce Logistics Processes with the Use of Machine Learning}{18}{subsection.2.1.6}%
-\contentsline {subsection}{\numberline {2.1.7}Automated machine learning driven model for predicting platform supply vessel freight market}{19}{subsection.2.1.7}%
-\contentsline {subsection}{\numberline {2.1.8}Product Sales Forecasting and Prediction Using Machine Learning Algorithm}{20}{subsection.2.1.8}%
-\contentsline {subsection}{\numberline {2.1.9}BMSP-ML: big mart sales prediction using different machine learning techniques}{21}{subsection.2.1.9}%
-\contentsline {subsection}{\numberline {2.1.10}Utilizing machine learning on freight transportation and logistics applications}{21}{subsection.2.1.10}%
-\contentsline {section}{\numberline {2.2}Bases Teóricas}{22}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Machine Learning}{22}{subsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.1.1}Aprendizaje supervisado}{23}{subsubsection.2.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.2.1.2}Aprendizaje no supervisado}{23}{subsubsection.2.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.2.1.3}Algoritmos de aprendizaje supervisado}{24}{subsubsection.2.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.2.1.4}Algoritmos de aprendizaje no supervisado}{26}{subsubsection.2.2.1.4}%
-\contentsline {subsection}{\numberline {2.2.2}Preprocesamiento de datos}{27}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Logistica}{28}{subsection.2.2.3}%
-\contentsline {section}{\numberline {2.3}Marco Conceptual}{29}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Marco conceptual}{29}{section.2.4}%
-\contentsline {section}{\numberline {2.5}Hipótesis}{30}{section.2.5}%
-\contentsline {subsection}{\numberline {2.5.1}Hipótesis General}{30}{subsection.2.5.1}%
-\contentsline {subsection}{\numberline {2.5.2}Hipótesis Específicas}{30}{subsection.2.5.2}%
-\contentsline {chapter}{\numberline {III}METODOLOGÍA DE LA INVESTIGACIÓN}{31}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Diseño de la investigación}{31}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Tipo de investigación}{31}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Enfoque de investigación}{31}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Población y muestra}{32}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Operacionalización de Variables}{32}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Técnicas de recolección de datos}{32}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Técnicas para el procesamiento y análisis de la información}{33}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Metodología de la implementación de la solución}{33}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Metodología para la medición de resultados}{33}{subsection.3.5.2}%
-\contentsline {section}{\numberline {3.6}Cronograma de actividades}{34}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Presupuesto}{34}{section.3.7}%
-\contentsline {chapter}{\numberline {IV}Desarrollo de la Solución}{36}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Determinación y evaluación de alternativas de solución}{36}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Propuesta solución}{39}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Planeamiento y descripción de Actividades}{39}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Desarrollo de actividades}{42}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4.3}Medición de la solución}{85}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Análisis de Indicadores cuantitativo}{85}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Simulación de solución}{87}{subsection.4.3.2}%
-\contentsline {chapter}{\numberline {V}Conclusiones y Recomendaciones}{90}{chapter.5}%
-\contentsline {chapter}{Anexos}{93}{section*.102}%
-\contentsline {section}{\numberline {A}Árbol de Problemas}{94}{section.Alph0.1}%
-\contentsline {section}{\numberline {B}Árbol de Objetivos}{95}{section.Alph0.2}%
-\contentsline {section}{\numberline {C}Matriz de Consistencia}{96}{section.Alph0.3}%
+\contentsline {subsection}{\numberline {2.1.6}Implementación de un modelo analítico para la predicción de la venta del portafolio de productos OTC de un Laboratorio Farmacéutico}{18}{subsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.1.7}Predicción de la aceptación de pedidos por parte de los repartidores en la industria de entregas a domicilio utilizando machine learning}{20}{subsection.2.1.7}%
+\contentsline {subsection}{\numberline {2.1.8}Predicción de la demanda de energía eléctrica en la producción de petróleo de los campos de Petroamazonas Ep utilizando redes neuronales artificiales}{21}{subsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.1.9}Pronóstico de ventas a través de una aplicación web aplicando machine learning y variables exógenas}{24}{subsection.2.1.9}%
+\contentsline {subsection}{\numberline {2.1.10}Utilizing machine learning on freight transportation and logistics applications}{25}{subsection.2.1.10}%
+\contentsline {section}{\numberline {2.2}Bases Teóricas}{26}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Machine Learning}{26}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.1}Aprendizaje supervisado}{26}{subsubsection.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.2.1.2}Aprendizaje no supervisado}{28}{subsubsection.2.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.2.1.3}Algoritmos de aprendizaje supervisado}{29}{subsubsection.2.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.2.1.4}Algoritmos de aprendizaje no supervisado}{30}{subsubsection.2.2.1.4}%
+\contentsline {subsection}{\numberline {2.2.2}Preprocesamiento de datos}{30}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Logistica}{32}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Marco Conceptual}{33}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Marco conceptual}{33}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Hipótesis}{33}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Hipótesis General}{33}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Hipótesis Específicas}{33}{subsection.2.5.2}%
+\contentsline {chapter}{\numberline {III}METODOLOGÍA DE LA INVESTIGACIÓN}{35}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Diseño de la investigación}{35}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Tipo de investigación}{35}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Enfoque de investigación}{35}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Población y muestra}{36}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Operacionalización de Variables}{36}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Técnicas de recolección de datos}{36}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Técnicas para el procesamiento y análisis de la información}{37}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Metodología de la implementación de la solución}{37}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Metodología para la medición de resultados}{37}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}Cronograma de actividades}{38}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Presupuesto}{38}{section.3.7}%
+\contentsline {chapter}{\numberline {IV}Desarrollo de la Solución}{40}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Determinación y evaluación de alternativas de solución}{40}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Propuesta solución}{43}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Planeamiento y descripción de Actividades}{43}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Desarrollo de actividades}{46}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Medición de la solución}{89}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Análisis de Indicadores cuantitativo}{89}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Simulación de solución}{91}{subsection.4.3.2}%
+\contentsline {chapter}{\numberline {V}Conclusiones y Recomendaciones}{94}{chapter.5}%
+\contentsline {chapter}{Anexos}{97}{section*.103}%
+\contentsline {section}{\numberline {A}Árbol de Problemas}{98}{section.Alph0.1}%
+\contentsline {section}{\numberline {B}Árbol de Objetivos}{99}{section.Alph0.2}%
+\contentsline {section}{\numberline {C}Matriz de Consistencia}{100}{section.Alph0.3}%
