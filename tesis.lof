@@ -4,8 +4,8 @@
 \contentsline {figure}{\numberline {3}{\ignorespaces MAPRO Inversiones Yaelsa E.I.R.L). Fuente: \blx@tocontentsinit {0}\cite {propia}}}{7}{figure.caption.12}%
 \contentsline {figure}{\numberline {4}{\ignorespaces Visión general del sistema propuesto}}{14}{figure.caption.14}%
 \contentsline {figure}{\numberline {5}{\ignorespaces Data de entrenamiento y de prueba}}{15}{figure.caption.15}%
-\contentsline {figure}{\numberline {6}{\ignorespaces Mejores alternativas de solución}}{17}{figure.caption.16}%
-\contentsline {figure}{\numberline {7}{\ignorespaces Tabla de tiempos de distribución}}{18}{figure.caption.17}%
+\contentsline {figure}{\numberline {6}{\ignorespaces El error de previsión multipaso con respecto a MASE para los próximos 21 días}}{17}{figure.caption.16}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Pruebas de significación MCB para los métodos de previsión ML estadísticos y de aprendizaje cruzado considerados. Los resultados se presentan para el conjunto de datos completo de 3.300 series temporales, tanto en términos de precisión (RMSSE) como de sesgo (AMSE).}}{18}{figure.caption.17}%
 \contentsline {figure}{\numberline {8}{\ignorespaces Modelo utilizado}}{20}{figure.caption.18}%
 \contentsline {figure}{\numberline {9}{\ignorespaces Modelos de Machine Learning}}{22}{figure.caption.20}%
 \contentsline {figure}{\numberline {10}{\ignorespaces Modelos más utilizados}}{23}{figure.caption.21}%

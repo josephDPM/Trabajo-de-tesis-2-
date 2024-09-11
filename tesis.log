@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.2)  10 SEP 2024 21:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.2)  10 SEP 2024 21:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2090,21 +2090,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [14 <./2/figures/metodologiaANT2.png>]
-
-LaTeX Warning: File `2/figures/antecedente3.png' not found on input line 70.
-
-
-! Package pdftex.def Error: File `2/figures/antecedente3.png' not found: using 
-draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.70 ...0.5\textwidth]{2/figures/antecedente3.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<2/figures/antecedente3image.png, id=673, 280.04625pt x 141.52875pt>
+File: 2/figures/antecedente3image.png Graphic file (type png)
+<use 2/figures/antecedente3image.png>
+Package pdftex.def Info: 2/figures/antecedente3image.png  used on input line 70
+.
+(pdftex.def)             Requested size: 452.96826pt x 228.92978pt.
 
 
 ! LaTeX Error: There's no line here to end.
@@ -2148,65 +2139,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[15]
-
-LaTeX Warning: File `3/figures/oliveira.png' not found on input line 93.
-
-
-! Package pdftex.def Error: File `3/figures/oliveira.png' not found: using draf
-t setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.93 ...dth=0.9\textwidth]{3/figures/oliveira.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.100 \linebreak\
-                 
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-LaTeX Warning: Citation 'Spiliotis' on page 16 undefined on input line 104.
-
-
-LaTeX Warning: Citation 'E.' on page 16 undefined on input line 104.
-
-
-LaTeX Warning: Citation 'Makridakis' on page 16 undefined on input line 104.
-
-
-LaTeX Warning: Citation 'S.' on page 16 undefined on input line 104.
-
-
-LaTeX Warning: Citation 'Semenoglou' on page 16 undefined on input line 104.
-
-
-LaTeX Warning: Citation 'A. A.' on page 16 undefined on input line 104.
-
-
-LaTeX Warning: Citation '& Assimakopoulos' on page 16 undefined on input line 1
-04.
-
-
-LaTeX Warning: Citation 'V. (2022)' on page 16 undefined on input line 104.
-
-
+[15 <./2/figures/antecedente3image.png>]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2217,24 +2150,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [16]
-
-LaTeX Warning: File `3/figures/delivery.png' not found on input line 115.
-
-
-! Package pdftex.def Error: File `3/figures/delivery.png' not found: using draf
-t setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.115 ...th=0.9\textwidth]{3/figures/delivery.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+<2/figures/antecedente4.png, id=683, 585.68813pt x 216.05719pt>
+File: 2/figures/antecedente4.png Graphic file (type png)
+<use 2/figures/antecedente4.png>
+Package pdftex.def Info: 2/figures/antecedente4.png  used on input line 95.
+(pdftex.def)             Requested size: 452.96826pt x 167.103pt.
 
 
 ! LaTeX Error: There's no line here to end.
@@ -2243,13 +2163,44 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.125 \linebreak\
+l.102 \linebreak\
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
+LaTeX Warning: Citation 'Spiliotis' on page 17 undefined on input line 106.
+
+
+LaTeX Warning: Citation 'E.' on page 17 undefined on input line 106.
+
+
+LaTeX Warning: Citation 'Makridakis' on page 17 undefined on input line 106.
+
+
+LaTeX Warning: Citation 'S.' on page 17 undefined on input line 106.
+
+
+LaTeX Warning: Citation 'Semenoglou' on page 17 undefined on input line 106.
+
+
+LaTeX Warning: Citation 'A. A.' on page 17 undefined on input line 106.
+
+
+LaTeX Warning: Citation '& Assimakopoulos' on page 17 undefined on input line 1
+06.
+
+
+LaTeX Warning: Citation 'V. (2022)' on page 17 undefined on input line 106.
+
+
+Overfull \hbox (2.53668pt too wide) in paragraph at lines 109--110
+[]\OT1/ptm/b/n/12 Metodolog[]^^Pa: \OT1/ptm/m/n/12 La me-to-do-log[]^^Pa com-pa
+-ra m[]eto-dos es-tad[]^^Psti-cos tra-di-cio-na-les, co-mo el m[]eto-
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2259,10 +2210,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[17]
+[17 <./2/figures/antecedente4.png>]
+<2/figures/antecedente5.png, id=689, 482.55281pt x 319.1925pt>
+File: 2/figures/antecedente5.png Graphic file (type png)
+<use 2/figures/antecedente5.png>
+Package pdftex.def Info: 2/figures/antecedente5.png  used on input line 119.
+(pdftex.def)             Requested size: 407.66867pt x 269.66867pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.126 \linebreak\
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 
 LaTeX Warning: Citation 'Miler et al. (2021)' on page 18 undefined on input lin
-e 130.
+e 133.
 
 
 
@@ -2274,12 +2244,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[18]
+[18 <./2/figures/antecedente5.png>]
 
-LaTeX Warning: Citation 'Haque (2024)' on page 19 undefined on input line 142.
+LaTeX Warning: Citation 'Haque (2024)' on page 19 undefined on input line 145.
 
 
-LaTeX Warning: File `3/figures/eureka.png' not found on input line 154.
+LaTeX Warning: File `3/figures/eureka.png' not found on input line 157.
 
 
 ! Package pdftex.def Error: File `3/figures/eureka.png' not found: using draft 
@@ -2289,7 +2259,7 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.154 ...idth=0.9\textwidth]{3/figures/eureka.png}
+l.157 ...idth=0.9\textwidth]{3/figures/eureka.png}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2298,10 +2268,10 @@ If that doesn't work, type  X <return>  to quit.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation 'Guru et al.' on page 19 undefined on input line 164.
+LaTeX Warning: Citation 'Guru et al.' on page 19 undefined on input line 167.
 
 
-LaTeX Warning: Citation '(2024)' on page 19 undefined on input line 164.
+LaTeX Warning: Citation '(2024)' on page 19 undefined on input line 167.
 
 
 
@@ -2325,13 +2295,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [20]
 
-LaTeX Warning: Citation 'Ali et al.' on page 21 undefined on input line 199.
+LaTeX Warning: Citation 'Ali et al.' on page 21 undefined on input line 202.
 
 
-LaTeX Warning: Citation '(2023)' on page 21 undefined on input line 199.
+LaTeX Warning: Citation '(2023)' on page 21 undefined on input line 202.
 
 
-LaTeX Warning: File `3/figures/modelosmach.png' not found on input line 210.
+LaTeX Warning: File `3/figures/modelosmach.png' not found on input line 213.
 
 
 ! Package pdftex.def Error: File `3/figures/modelosmach.png' not found: using d
@@ -2341,7 +2311,7 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.210 ...0.5\textwidth]{3/figures/modelosmach.png}
+l.213 ...0.5\textwidth]{3/figures/modelosmach.png}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2350,11 +2320,11 @@ If that doesn't work, type  X <return>  to quit.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Citation 'Kalliopi et al.' on page 21 undefined on input line 21
-9.
+LaTeX Warning: Citation 'Kalliopi et al.' on page 21 undefined on input line 22
+2.
 
 
-LaTeX Warning: Citation '(2023)' on page 21 undefined on input line 219.
+LaTeX Warning: Citation '(2023)' on page 21 undefined on input line 222.
 
 
 
@@ -2368,7 +2338,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [21]
 
-LaTeX Warning: File `3/figures/revision.png' not found on input line 232.
+LaTeX Warning: File `3/figures/revision.png' not found on input line 235.
 
 
 ! Package pdftex.def Error: File `3/figures/revision.png' not found: using draf
@@ -2378,7 +2348,7 @@ See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.232 ...th=0.5\textwidth]{3/figures/revision.png}
+l.235 ...th=0.5\textwidth]{3/figures/revision.png}
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -2560,7 +2530,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [31
 
 ]
-<3/figures/tabla de opera.png, id=745, 769.07326pt x 389.65575pt>
+<3/figures/tabla de opera.png, id=751, 769.07326pt x 389.65575pt>
 File: 3/figures/tabla de opera.png Graphic file (type png)
 <use 3/figures/tabla de opera.png>
 Package pdftex.def Info: 3/figures/tabla de opera.png  used on input line 28.
@@ -2586,12 +2556,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [33]
-<3/figures/cronograma.png, id=755, 375.20175pt x 437.2335pt>
+<3/figures/cronograma.png, id=761, 375.20175pt x 437.2335pt>
 File: 3/figures/cronograma.png Graphic file (type png)
 <use 3/figures/cronograma.png>
 Package pdftex.def Info: 3/figures/cronograma.png  used on input line 61.
 (pdftex.def)             Requested size: 407.66867pt x 475.08061pt.
-<3/figures/PRESUPUESTO.png, id=756, 329.43076pt x 251.13824pt>
+<3/figures/PRESUPUESTO.png, id=762, 329.43076pt x 251.13824pt>
 File: 3/figures/PRESUPUESTO.png Graphic file (type png)
 <use 3/figures/PRESUPUESTO.png>
 Package pdftex.def Info: 3/figures/PRESUPUESTO.png  used on input line 74.
@@ -2653,7 +2623,7 @@ nput line 26.
 
 LaTeX Warning: Citation '' on page 37 undefined on input line 26.
 
-<4/figures/hybrid_arc.png, id=772, 939.51pt x 2006.49625pt>
+<4/figures/hybrid_arc.png, id=778, 939.51pt x 2006.49625pt>
 File: 4/figures/hybrid_arc.png Graphic file (type png)
 <use 4/figures/hybrid_arc.png>
 Package pdftex.def Info: 4/figures/hybrid_arc.png  used on input line 30.
@@ -2761,12 +2731,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [42]
-<4/figures/nodule_ddti.png, id=801, 653.44125pt x 233.37187pt>
+<4/figures/nodule_ddti.png, id=807, 653.44125pt x 233.37187pt>
 File: 4/figures/nodule_ddti.png Graphic file (type png)
 <use 4/figures/nodule_ddti.png>
 Package pdftex.def Info: 4/figures/nodule_ddti.png  used on input line 146.
 (pdftex.def)             Requested size: 385.02577pt x 137.50659pt.
-<4/figures/xmlfile.png, id=802, 422.32782pt x 270.25969pt>
+<4/figures/xmlfile.png, id=808, 422.32782pt x 270.25969pt>
 File: 4/figures/xmlfile.png Graphic file (type png)
 <use 4/figures/xmlfile.png>
 Package pdftex.def Info: 4/figures/xmlfile.png  used on input line 155.
@@ -2782,12 +2752,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [43 <./4/figures/nodule_ddti.png> <./4/figures/xmlfile.png>]
-<4/figures/tn3k_examp.png, id=812, 679.78969pt x 287.57437pt>
+<4/figures/tn3k_examp.png, id=818, 679.78969pt x 287.57437pt>
 File: 4/figures/tn3k_examp.png Graphic file (type png)
 <use 4/figures/tn3k_examp.png>
 Package pdftex.def Info: 4/figures/tn3k_examp.png  used on input line 170.
 (pdftex.def)             Requested size: 308.01509pt x 130.29803pt.
-<4/figures/tn3k_csv.PNG, id=813, 182.93344pt x 176.91093pt>
+<4/figures/tn3k_csv.PNG, id=819, 182.93344pt x 176.91093pt>
 File: 4/figures/tn3k_csv.PNG Graphic file (type png)
 <use 4/figures/tn3k_csv.PNG>
 Package pdftex.def Info: 4/figures/tn3k_csv.PNG  used on input line 179.
@@ -2813,12 +2783,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [45 <./4/figures/tn3k_csv.PNG>]
-<4/figures/train_circular.png, id=827, 281.1303pt x 297.7524pt>
+<4/figures/train_circular.png, id=833, 281.1303pt x 297.7524pt>
 File: 4/figures/train_circular.png Graphic file (type png)
 <use 4/figures/train_circular.png>
 Package pdftex.def Info: 4/figures/train_circular.png  used on input line 206.
 (pdftex.def)             Requested size: 231.01132pt x 244.67194pt.
-<4/figures/test_circular.png, id=828, 281.1303pt x 297.7524pt>
+<4/figures/test_circular.png, id=834, 281.1303pt x 297.7524pt>
 File: 4/figures/test_circular.png Graphic file (type png)
 <use 4/figures/test_circular.png>
 Package pdftex.def Info: 4/figures/test_circular.png  used on input line 215.
@@ -2847,7 +2817,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [47 <./4/figures/test_circular.png>] Excluding 'comment' comment.
-<4/figures/nuevos_ficheros.PNG, id=841, 328.22626pt x 103.88812pt>
+<4/figures/nuevos_ficheros.PNG, id=847, 328.22626pt x 103.88812pt>
 File: 4/figures/nuevos_ficheros.PNG Graphic file (type png)
 <use 4/figures/nuevos_ficheros.PNG>
 Package pdftex.def Info: 4/figures/nuevos_ficheros.PNG  used on input line 279.
@@ -2898,7 +2868,7 @@ Overfull \hbox (10.57436pt too wide) in paragraph at lines 350--351
 \OT1/ptm/m/n/12 se hi-zo en la in-ves-ti-ga-ci[]on pre-sen-ta-da por [][].
  []
 
-<4/figures/generator_network.PNG, id=857, 581.17125pt x 279.29344pt>
+<4/figures/generator_network.PNG, id=863, 581.17125pt x 279.29344pt>
 File: 4/figures/generator_network.PNG Graphic file (type png)
 <use 4/figures/generator_network.PNG>
 Package pdftex.def Info: 4/figures/generator_network.PNG  used on input line 36
@@ -2915,7 +2885,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [50]
-<4/figures/discriminator_network.PNG, id=863, 526.96875pt x 265.74281pt>
+<4/figures/discriminator_network.PNG, id=869, 526.96875pt x 265.74281pt>
 File: 4/figures/discriminator_network.PNG Graphic file (type png)
 <use 4/figures/discriminator_network.PNG>
 Package pdftex.def Info: 4/figures/discriminator_network.PNG  used on input lin
@@ -2933,12 +2903,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [51 <./4/figures/generator_network.PNG> <./4/figures/discriminator_network.PNG>
 ]
-<4/figures/dcgan_1_train.PNG, id=871, 574.39594pt x 358.33875pt>
+<4/figures/dcgan_1_train.PNG, id=877, 574.39594pt x 358.33875pt>
 File: 4/figures/dcgan_1_train.PNG Graphic file (type png)
 <use 4/figures/dcgan_1_train.PNG>
 Package pdftex.def Info: 4/figures/dcgan_1_train.PNG  used on input line 398.
 (pdftex.def)             Requested size: 339.7262pt x 211.94293pt.
-<4/figures/plot_loss_1.png, id=873, 607.7907pt x 339.669pt>
+<4/figures/plot_loss_1.png, id=879, 607.7907pt x 339.669pt>
 File: 4/figures/plot_loss_1.png Graphic file (type png)
 <use 4/figures/plot_loss_1.png>
 Package pdftex.def Info: 4/figures/plot_loss_1.png  used on input line 409.
@@ -2954,7 +2924,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [52 <./4/figures/dcgan_1_train.PNG>]
-<4/figures/generated_real_1.png, id=880, 854.2314pt x 411.939pt>
+<4/figures/generated_real_1.png, id=886, 854.2314pt x 411.939pt>
 File: 4/figures/generated_real_1.png Graphic file (type png)
 <use 4/figures/generated_real_1.png>
 Package pdftex.def Info: 4/figures/generated_real_1.png  used on input line 422
@@ -2971,7 +2941,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [53 <./4/figures/plot_loss_1.png> <./4/figures/generated_real_1.png>]
-<4/figures/dcgan_2_train.PNG, id=888, 566.86781pt x 334.24875pt>
+<4/figures/dcgan_2_train.PNG, id=894, 566.86781pt x 334.24875pt>
 File: 4/figures/dcgan_2_train.PNG Graphic file (type png)
 <use 4/figures/dcgan_2_train.PNG>
 Package pdftex.def Info: 4/figures/dcgan_2_train.PNG  used on input line 447.
@@ -2987,7 +2957,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [54]
-<4/figures/plot_loss_2.png, id=894, 607.7907pt x 339.669pt>
+<4/figures/plot_loss_2.png, id=900, 607.7907pt x 339.669pt>
 File: 4/figures/plot_loss_2.png Graphic file (type png)
 <use 4/figures/plot_loss_2.png>
 Package pdftex.def Info: 4/figures/plot_loss_2.png  used on input line 458.
@@ -3003,13 +2973,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [55 <./4/figures/dcgan_2_train.PNG> <./4/figures/plot_loss_2.png>]
-<4/figures/generated_real_2.png, id=903, 854.2314pt x 411.939pt>
+<4/figures/generated_real_2.png, id=909, 854.2314pt x 411.939pt>
 File: 4/figures/generated_real_2.png Graphic file (type png)
 <use 4/figures/generated_real_2.png>
 Package pdftex.def Info: 4/figures/generated_real_2.png  used on input line 471
 .
 (pdftex.def)             Requested size: 385.02577pt x 185.67253pt.
-<4/figures/balanced_circular.png, id=905, 281.1303pt x 297.7524pt>
+<4/figures/balanced_circular.png, id=911, 281.1303pt x 297.7524pt>
 File: 4/figures/balanced_circular.png Graphic file (type png)
 <use 4/figures/balanced_circular.png>
 Package pdftex.def Info: 4/figures/balanced_circular.png  used on input line 48
@@ -3044,7 +3014,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [57 <./4/figures/balanced_circular.png>]
-<4/figures/model1_train.PNG, id=917, 611.4042pt x 339.669pt>
+<4/figures/model1_train.PNG, id=923, 611.4042pt x 339.669pt>
 File: 4/figures/model1_train.PNG Graphic file (type png)
 <use 4/figures/model1_train.PNG>
 Package pdftex.def Info: 4/figures/model1_train.PNG  used on input line 527.
@@ -3067,7 +3037,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 541.
  Excluding 'comment' comment.
-<4/figures/model2_train.PNG, id=924, 611.4042pt x 339.669pt>
+<4/figures/model2_train.PNG, id=930, 611.4042pt x 339.669pt>
 File: 4/figures/model2_train.PNG Graphic file (type png)
 <use 4/figures/model2_train.PNG>
 Package pdftex.def Info: 4/figures/model2_train.PNG  used on input line 572.
@@ -3083,7 +3053,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [59 <./4/figures/model1_train.PNG>] Excluding 'comment' comment.
-<4/figures/model3_train.PNG, id=932, 611.4042pt x 339.669pt>
+<4/figures/model3_train.PNG, id=938, 611.4042pt x 339.669pt>
 File: 4/figures/model3_train.PNG Graphic file (type png)
 <use 4/figures/model3_train.PNG>
 Package pdftex.def Info: 4/figures/model3_train.PNG  used on input line 617.
@@ -3099,7 +3069,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [60 <./4/figures/model2_train.PNG>] Excluding 'comment' comment.
-<4/figures/model4_train.PNG, id=940, 611.4042pt x 339.669pt>
+<4/figures/model4_train.PNG, id=946, 611.4042pt x 339.669pt>
 File: 4/figures/model4_train.PNG Graphic file (type png)
 <use 4/figures/model4_train.PNG>
 Package pdftex.def Info: 4/figures/model4_train.PNG  used on input line 662.
@@ -3115,7 +3085,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [61 <./4/figures/model3_train.PNG>] Excluding 'comment' comment.
-<4/figures/model5_train.PNG, id=949, 611.4042pt x 339.669pt>
+<4/figures/model5_train.PNG, id=955, 611.4042pt x 339.669pt>
 File: 4/figures/model5_train.PNG Graphic file (type png)
 <use 4/figures/model5_train.PNG>
 Package pdftex.def Info: 4/figures/model5_train.PNG  used on input line 707.
@@ -3131,7 +3101,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [62 <./4/figures/model4_train.PNG>] Excluding 'comment' comment.
-<4/figures/model6_train.PNG, id=957, 611.4042pt x 339.669pt>
+<4/figures/model6_train.PNG, id=963, 611.4042pt x 339.669pt>
 File: 4/figures/model6_train.PNG Graphic file (type png)
 <use 4/figures/model6_train.PNG>
 Package pdftex.def Info: 4/figures/model6_train.PNG  used on input line 752.
@@ -3147,7 +3117,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [63 <./4/figures/model5_train.PNG>] Excluding 'comment' comment.
-<4/figures/model7_train.PNG, id=965, 611.4042pt x 339.669pt>
+<4/figures/model7_train.PNG, id=971, 611.4042pt x 339.669pt>
 File: 4/figures/model7_train.PNG Graphic file (type png)
 <use 4/figures/model7_train.PNG>
 Package pdftex.def Info: 4/figures/model7_train.PNG  used on input line 797.
@@ -3163,7 +3133,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [64 <./4/figures/model6_train.PNG>] Excluding 'comment' comment.
-<4/figures/model8_train.PNG, id=973, 611.4042pt x 339.669pt>
+<4/figures/model8_train.PNG, id=979, 611.4042pt x 339.669pt>
 File: 4/figures/model8_train.PNG Graphic file (type png)
 <use 4/figures/model8_train.PNG>
 Package pdftex.def Info: 4/figures/model8_train.PNG  used on input line 840.
@@ -3179,7 +3149,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [65 <./4/figures/model7_train.PNG>] Excluding 'comment' comment.
-<4/figures/model9_train.PNG, id=981, 611.4042pt x 339.669pt>
+<4/figures/model9_train.PNG, id=987, 611.4042pt x 339.669pt>
 File: 4/figures/model9_train.PNG Graphic file (type png)
 <use 4/figures/model9_train.PNG>
 Package pdftex.def Info: 4/figures/model9_train.PNG  used on input line 883.
@@ -3195,7 +3165,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [66 <./4/figures/model8_train.PNG>] Excluding 'comment' comment.
-<4/figures/model10_train.PNG, id=989, 611.4042pt x 339.669pt>
+<4/figures/model10_train.PNG, id=995, 611.4042pt x 339.669pt>
 File: 4/figures/model10_train.PNG Graphic file (type png)
 <use 4/figures/model10_train.PNG>
 Package pdftex.def Info: 4/figures/model10_train.PNG  used on input line 926.
@@ -3211,7 +3181,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [67 <./4/figures/model9_train.PNG>] Excluding 'comment' comment.
-<4/figures/model11_train.PNG, id=998, 611.4042pt x 339.669pt>
+<4/figures/model11_train.PNG, id=1004, 611.4042pt x 339.669pt>
 File: 4/figures/model11_train.PNG Graphic file (type png)
 <use 4/figures/model11_train.PNG>
 Package pdftex.def Info: 4/figures/model11_train.PNG  used on input line 969.
@@ -3227,7 +3197,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [68 <./4/figures/model10_train.PNG>] Excluding 'comment' comment.
-<4/figures/model12_train.PNG, id=1006, 611.4042pt x 339.669pt>
+<4/figures/model12_train.PNG, id=1012, 611.4042pt x 339.669pt>
 File: 4/figures/model12_train.PNG Graphic file (type png)
 <use 4/figures/model12_train.PNG>
 Package pdftex.def Info: 4/figures/model12_train.PNG  used on input line 1012.
@@ -3243,7 +3213,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [69 <./4/figures/model11_train.PNG>] Excluding 'comment' comment.
-<4/figures/model13_train.PNG, id=1013, 611.4042pt x 339.669pt>
+<4/figures/model13_train.PNG, id=1019, 611.4042pt x 339.669pt>
 File: 4/figures/model13_train.PNG Graphic file (type png)
 <use 4/figures/model13_train.PNG>
 Package pdftex.def Info: 4/figures/model13_train.PNG  used on input line 1057.
@@ -3259,7 +3229,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [70 <./4/figures/model12_train.PNG>] Excluding 'comment' comment.
-<4/figures/model14_train.PNG, id=1019, 611.4042pt x 339.669pt>
+<4/figures/model14_train.PNG, id=1025, 611.4042pt x 339.669pt>
 File: 4/figures/model14_train.PNG Graphic file (type png)
 <use 4/figures/model14_train.PNG>
 Package pdftex.def Info: 4/figures/model14_train.PNG  used on input line 1094.
@@ -3275,7 +3245,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [71 <./4/figures/model13_train.PNG>] Excluding 'comment' comment.
-<4/figures/model15_train.PNG, id=1025, 617.9085pt x 339.669pt>
+<4/figures/model15_train.PNG, id=1031, 617.9085pt x 339.669pt>
 File: 4/figures/model15_train.PNG Graphic file (type png)
 <use 4/figures/model15_train.PNG>
 Package pdftex.def Info: 4/figures/model15_train.PNG  used on input line 1131.
@@ -3292,13 +3262,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [72 <./4/figures/model14_train.PNG> <./4/figures/model15_train.PNG>]
 Excluding 'comment' comment.
-<4/figures/model16_train.PNG, id=1032, 611.4042pt x 339.669pt>
+<4/figures/model16_train.PNG, id=1038, 611.4042pt x 339.669pt>
 File: 4/figures/model16_train.PNG Graphic file (type png)
 <use 4/figures/model16_train.PNG>
 Package pdftex.def Info: 4/figures/model16_train.PNG  used on input line 1168.
 (pdftex.def)             Requested size: 385.02577pt x 213.90967pt.
  Excluding 'comment' comment.
-<4/figures/model17_train.PNG, id=1033, 611.4042pt x 339.669pt>
+<4/figures/model17_train.PNG, id=1039, 611.4042pt x 339.669pt>
 File: 4/figures/model17_train.PNG Graphic file (type png)
 <use 4/figures/model17_train.PNG>
 Package pdftex.def Info: 4/figures/model17_train.PNG  used on input line 1205.
@@ -3314,7 +3284,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [73 <./4/figures/model16_train.PNG>] Excluding 'comment' comment.
-<4/figures/model18_train.PNG, id=1040, 611.4042pt x 339.669pt>
+<4/figures/model18_train.PNG, id=1046, 611.4042pt x 339.669pt>
 File: 4/figures/model18_train.PNG Graphic file (type png)
 <use 4/figures/model18_train.PNG>
 Package pdftex.def Info: 4/figures/model18_train.PNG  used on input line 1242.
@@ -3330,7 +3300,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [74 <./4/figures/model17_train.PNG>] Excluding 'comment' comment.
-<4/figures/model19_train.PNG, id=1046, 611.4042pt x 339.669pt>
+<4/figures/model19_train.PNG, id=1052, 611.4042pt x 339.669pt>
 File: 4/figures/model19_train.PNG Graphic file (type png)
 <use 4/figures/model19_train.PNG>
 Package pdftex.def Info: 4/figures/model19_train.PNG  used on input line 1279.
@@ -3346,7 +3316,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [75 <./4/figures/model18_train.PNG>] Excluding 'comment' comment.
-<4/figures/model20_train.PNG, id=1052, 611.4042pt x 339.669pt>
+<4/figures/model20_train.PNG, id=1058, 611.4042pt x 339.669pt>
 File: 4/figures/model20_train.PNG Graphic file (type png)
 <use 4/figures/model20_train.PNG>
 Package pdftex.def Info: 4/figures/model20_train.PNG  used on input line 1316.
@@ -3362,7 +3332,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [76 <./4/figures/model19_train.PNG>] Excluding 'comment' comment.
-<4/figures/model21_train.PNG, id=1058, 611.4042pt x 339.669pt>
+<4/figures/model21_train.PNG, id=1064, 611.4042pt x 339.669pt>
 File: 4/figures/model21_train.PNG Graphic file (type png)
 <use 4/figures/model21_train.PNG>
 Package pdftex.def Info: 4/figures/model21_train.PNG  used on input line 1353.
@@ -3378,7 +3348,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [77 <./4/figures/model20_train.PNG>] Excluding 'comment' comment.
-<4/figures/model22_train.PNG, id=1064, 611.4042pt x 339.669pt>
+<4/figures/model22_train.PNG, id=1070, 611.4042pt x 339.669pt>
 File: 4/figures/model22_train.PNG Graphic file (type png)
 <use 4/figures/model22_train.PNG>
 Package pdftex.def Info: 4/figures/model22_train.PNG  used on input line 1390.
@@ -3394,7 +3364,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [78 <./4/figures/model21_train.PNG>] Excluding 'comment' comment.
-<4/figures/model23_train.PNG, id=1070, 611.4042pt x 339.669pt>
+<4/figures/model23_train.PNG, id=1076, 611.4042pt x 339.669pt>
 File: 4/figures/model23_train.PNG Graphic file (type png)
 <use 4/figures/model23_train.PNG>
 Package pdftex.def Info: 4/figures/model23_train.PNG  used on input line 1427.
@@ -3410,7 +3380,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [79 <./4/figures/model22_train.PNG>] Excluding 'comment' comment.
-<4/figures/model24_train.PNG, id=1077, 611.4042pt x 339.669pt>
+<4/figures/model24_train.PNG, id=1083, 611.4042pt x 339.669pt>
 File: 4/figures/model24_train.PNG Graphic file (type png)
 <use 4/figures/model24_train.PNG>
 Package pdftex.def Info: 4/figures/model24_train.PNG  used on input line 1464.
@@ -3450,7 +3420,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [81 <./4/figures/model24_train.PNG>]
-<4/figures/modelH_resnet_train.PNG, id=1089, 611.4042pt x 339.669pt>
+<4/figures/modelH_resnet_train.PNG, id=1095, 611.4042pt x 339.669pt>
 File: 4/figures/modelH_resnet_train.PNG Graphic file (type png)
 <use 4/figures/modelH_resnet_train.PNG>
 Package pdftex.def Info: 4/figures/modelH_resnet_train.PNG  used on input line 
@@ -3467,7 +3437,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [82]
-<4/figures/modelH_vgg_train.PNG, id=1096, 611.4042pt x 339.669pt>
+<4/figures/modelH_vgg_train.PNG, id=1102, 611.4042pt x 339.669pt>
 File: 4/figures/modelH_vgg_train.PNG Graphic file (type png)
 <use 4/figures/modelH_vgg_train.PNG>
 Package pdftex.def Info: 4/figures/modelH_vgg_train.PNG  used on input line 155
@@ -3484,7 +3454,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [83 <./4/figures/modelH_resnet_train.PNG>]
-<4/figures/modelH_google_train.PNG, id=1104, 618.6312pt x 339.669pt>
+<4/figures/modelH_google_train.PNG, id=1110, 618.6312pt x 339.669pt>
 File: 4/figures/modelH_google_train.PNG Graphic file (type png)
 <use 4/figures/modelH_google_train.PNG>
 Package pdftex.def Info: 4/figures/modelH_google_train.PNG  used on input line 
@@ -3641,12 +3611,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [86]
-<4/figures/upload_image.png, id=1125, 515.67656pt x 115.18031pt>
+<4/figures/upload_image.png, id=1131, 515.67656pt x 115.18031pt>
 File: 4/figures/upload_image.png Graphic file (type png)
 <use 4/figures/upload_image.png>
 Package pdftex.def Info: 4/figures/upload_image.png  used on input line 1677.
 (pdftex.def)             Requested size: 362.37598pt x 80.942pt.
-<4/figures/upload_malign.png, id=1126, 279.29344pt x 469.755pt>
+<4/figures/upload_malign.png, id=1132, 279.29344pt x 469.755pt>
 File: 4/figures/upload_malign.png Graphic file (type png)
 <use 4/figures/upload_malign.png>
 Package pdftex.def Info: 4/figures/upload_malign.png  used on input line 1686.
@@ -3662,7 +3632,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [87 <./4/figures/upload_image.png>]
-<4/figures/upload_benign.png, id=1132, 277.035pt x 465.99094pt>
+<4/figures/upload_benign.png, id=1138, 277.035pt x 465.99094pt>
 File: 4/figures/upload_benign.png Graphic file (type png)
 <use 4/figures/upload_benign.png>
 Package pdftex.def Info: 4/figures/upload_benign.png  used on input line 1695.
@@ -3739,7 +3709,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ] (anexos/anexo.tex
-<anexos/arbol de problemas.png, id=1160, 711.4078pt x 476.53032pt>
+<anexos/arbol de problemas.png, id=1166, 711.4078pt x 476.53032pt>
 File: anexos/arbol de problemas.png Graphic file (type png)
 <use anexos/arbol de problemas.png>
 Package pdftex.def Info: anexos/arbol de problemas.png  used on input line 16.
@@ -3757,7 +3727,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [94
 
  <./anexos/arbol de problemas.png>]
-<anexos/arbol de objetivos.png, id=1167, 796.47563pt x 441.90094pt>
+<anexos/arbol de objetivos.png, id=1173, 796.47563pt x 441.90094pt>
 File: anexos/arbol de objetivos.png Graphic file (type png)
 <use anexos/arbol de objetivos.png>
 Package pdftex.def Info: anexos/arbol de objetivos.png  used on input line 29.
@@ -4176,10 +4146,10 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35102 strings out of 473899
- 675256 string characters out of 5726973
+ 35033 strings out of 473899
+ 672969 string characters out of 5726973
  1974960 words of memory out of 5000000
- 57120 multiletter control sequences out of 15000+600000
+ 57051 multiletter control sequences out of 15000+600000
  598981 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,117p,1848b,3635s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -4193,9 +4163,9 @@ fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/User/AppData/Local/Programs
 MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/User/AppData/Local/Programs/
 MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/User/AppData/Local/Programs/M
 iKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (110 pages, 5775035 bytes).
+Output written on tesis.pdf (110 pages, 5848504 bytes).
 PDF statistics:
- 1292 PDF objects out of 1440 (max. 8388607)
+ 1298 PDF objects out of 1440 (max. 8388607)
  283 named destinations out of 1000 (max. 500000)
- 830 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 845 words of extra memory for PDF output out of 10000 (max. 10000000)
 
